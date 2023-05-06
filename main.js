@@ -17,4 +17,4 @@
                   document.getElementById("hi").innerHTML="Emotional Damage has occured please increase brain cells";}
 
             id(document.getElementById("amount").value > 100){
-                  document.getElementById("amount").innerHTML="you have become smart but this is just 10% of how smart you can become";
+                  document.getElementById("hi").innerHTML="you have become smart but this is just 10% of how smart you can become";
